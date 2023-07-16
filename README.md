@@ -1,6 +1,5 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/reactos-#61DAFB?style=뱃지모양&logo=로고&logoColor=white"/></a>
-
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=react&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 **carda8/carda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
