@@ -1,6 +1,6 @@
-### Hi there 👋 I'm a mobile app developer.
-usually use Flutter, RN
-I'm also developing a mobile game using Unity and Flutter as a hobby or personal project
+### Hi there 👋 I'm a mobile app developer.<br>
+usually use Flutter, RN<br>
+I'm also developing a mobile game using Unity and Flutter as a hobby or personal project<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carda8&show_icons=true&theme=radical)<br>
