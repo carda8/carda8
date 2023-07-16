@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm a mobile app developer.<br>
 usually use Flutter, RN<br>
-I'm also developing a mobile game🎮 using Unity and Flutter as a hobby or personal project<br>
+I'm also developing a mobile game🎮 using Unity and Flutter as a hobby or personal project<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carda8&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carda8&show_icons=true&theme=radical)<br><br>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
