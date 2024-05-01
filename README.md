@@ -1,10 +1,11 @@
 <div align="center">
 Hi there 👋 I'm a mobile app developer.<br>
-usually use Flutter, RN<br><br>
+usually use RN, Swift<br><br>
 I'm also developing a mobile game🎮<br>using Unity and Flutter as a hobby or personal project<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carda8&show_icons=true&theme=radical)<br><br>
 <h3 align="center">👩‍💻 Tech Stack 👩‍💻</h3>
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <br>
