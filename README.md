@@ -1,12 +1,12 @@
-just a person who can develop something helps me and others.
+###just a person who can develop something helps me and others.
 
-not talented
-not smart
+##not talented
+##not smart
 
-but
+#but
 
-just do
-just use
-just create
+##just do
+##just use
+##just create
 
 ---
