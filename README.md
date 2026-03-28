@@ -5,7 +5,7 @@ I'm also developing a mobile game🎮<br>using Unity and Flutter as a hobby or p
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carda8&show_icons=true&theme=radical)<br><br>
 <h3 align="center">👩‍💻 Tech Stack 👩‍💻</h3>
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -19,5 +19,5 @@ I'm also developing a mobile game🎮<br>using Unity and Flutter as a hobby or p
 <br>
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> -->
 </div>
